@@ -76,7 +76,7 @@ https://github.com/vim/vim/archive/refs/tags/v9.0.1381.tar.gz
 https://pypi.org/packages/source/w/wheel/wheel-0.38.4.tar.gz
 https://cpan.metacpan.org/authors/id/T/TO/TODDR/XML-Parser-2.46.tar.gz
 https://tukaani.org/xz/xz-5.4.1.tar.xz
-http://zlib.net/zlib-1.2.13.tar.xz
+https://github.com/madler/zlib/releases/download/v1.2.13/zlib-1.2.13.tar.xz
 https://github.com/facebook/zstd/releases/download/v1.5.4/zstd-1.5.4.tar.gz
 https://www.linuxfromscratch.org/patches/lfs/11.3/bzip2-1.0.8-install_docs-1.patch
 https://www.linuxfromscratch.org/patches/lfs/11.3/coreutils-9.1-i18n-1.patch
